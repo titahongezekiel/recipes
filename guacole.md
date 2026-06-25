@@ -1,4 +1,0 @@
-# Guacamole
-## Ingredients
-## Instructioons
-
